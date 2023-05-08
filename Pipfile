@@ -6,6 +6,10 @@ name = "pypi"
 [packages]
 flask = "==2.1.2"
 pycoingecko = "*"
+black = "*"
+pylint = "*"
+pytest = "*"
+isort =  "*"
 
 
 [requires]
